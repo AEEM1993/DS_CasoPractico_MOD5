@@ -10,3 +10,9 @@ Este repositorio está orientado a mostrar el avance del análisis realizado par
   - females, as a share of private paid employees
   - females, as a share of public paid employees
 - (A continuación) Se puede mejorar la visualización con gráficas de barras apiladas siempre y cuando ambos indicadores de participación sumen 100% en todos los puntos.
+
+## _2024-02-01:_
+
+- Gráfico de barras apiladas para indicadores generalizados por sector y género
+- Grafico de lineas para análisis salarial por sector
+- Gráfico de profesionales por género
